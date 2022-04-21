@@ -11,18 +11,6 @@ Most of it is from [Unsplash](https://unsplash.com).
 
 ## 3D Renders
 
-<style>
-    .grid {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-    }
-
-    .grid-item {
-        max-width: 30%;
-    } 
-</style>
-
 <div class="grid">
 
 <div class="grid-item">
